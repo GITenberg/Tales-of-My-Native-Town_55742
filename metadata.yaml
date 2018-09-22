@@ -14,6 +14,9 @@ contributor:
     birthdate: 1856
     gutenberg_agent_id: '48489'
     url: http://www.gutenberg.org/2009/agents/48489
+covers:
+- cover_type: archival
+  image_path: 55742-h/images/cover.jpg
 creator:
   author:
     agent_name: D'Annunzio, Gabriele
@@ -26,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9030
     wikipedia: http://en.wikipedia.org/wiki/Gabriele_D'Annunzio
 description: 'Translation in part of: Le novelle della Pescara, #53184.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55742#Tales-of-My-Native-Town
 gutenberg_issued: '2017-10-13'
 gutenberg_type: Text
 identifiers:
